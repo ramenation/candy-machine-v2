@@ -16,12 +16,12 @@
 
   /***********************************/
   // Customise the app by changing the following variables.
-  const TITLE = "Shapes";
-  const DESCRTIPTION = "A collection of shapes on the blockchain";
-  const HEADER_TITLE = "shapes.xyz";
-  const HEADER_LINK = "https://solarare.com";
+  const TITLE = "Monster Mayhem by Distort Monsters";
+  const DESCRTIPTION = "From the Chaotic City to the Mysterious Metaverse -- Monster Mayhem is afoot!";
+  const HEADER_TITLE = "monstermayhem.io";
+  const HEADER_LINK = "https://monstermayhem.io/;
   // Your image or GIF needs to be in the /public folder for this to work
-  const IMAGE_LINK = "/example.gif";
+  const IMAGE_LINK = "/icon2.gif";
   /***********************************/
 
   let { solana } = window as any;
